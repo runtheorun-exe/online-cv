@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: University Undergrad
     summary: |
-      Joined the Department of Informatics [@Ionian University] (https://ionio.gr/en/)
+      Joined the Department of Informatics [@Ionian University](https://ionio.gr/en/)
       Second paragraph if required.
 education:
     - degree: MSc in Computer Science
